@@ -29,11 +29,16 @@ namespace Conway
 
         private void init()
         {
-            cells[1, 0] = 1;
-            cells[1, 1] = 1;
-            cells[1, 2] = 1;
+            Random rnd = new Random();
+            int size = cells.GetLength(0);
+            for (int row = 0; row < size; row++)
+            {
+                for (int column = 0; column < size; column++)
+                {
+                    cells[row, column] = rnd.Next(0, 2);
+                }
+            }
         }
-
         private bool update()
         {
             int size = cells.GetLength(0);
