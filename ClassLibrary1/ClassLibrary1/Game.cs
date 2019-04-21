@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Linq;
 namespace Conway
 {
     public class Game
@@ -17,7 +17,13 @@ namespace Conway
             Console.Write("init" + Environment.NewLine);
             printCells();
             Console.Write("update" + Environment.NewLine);
-            update();
+            bool flag = true;
+            while(flag)
+            {
+                flag = update();
+            }
+
+            Console.ReadLine();
         }
 
         private void init()
@@ -27,7 +33,7 @@ namespace Conway
             cells[1, 0] = 1;
         }
 
-        private void update()
+        private bool update()
         {
             int size = cells.GetLength(0);
             int[,] temp = (int[,])cells.Clone();
@@ -45,9 +51,20 @@ namespace Conway
                 }
             }
 
+            String cellString = "";
+            foreach (var s in cells.Cast<int>())
+                cellString = cellString + s;
+
+            String tempString = "";
+            foreach (var s in temp.Cast<int>())
+                tempString = tempString + s;
+
+            if (string.Compare(cellString, tempString) == 0)
+                return false;
+
             cells = temp;
             printCells();
-            Console.ReadLine();
+            return true;
         }
 
         private int checkNeighbors(int r, int c)

@@ -7,3 +7,12 @@ C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\Clas
 C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.AssemblyInfo.cs
 C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.dll
 C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.pdb
+D:\programming\git\ConwaysGame\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Conway.deps.json
+D:\programming\git\ConwaysGame\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Conway.dll
+D:\programming\git\ConwaysGame\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Conway.pdb
+D:\programming\git\ConwaysGame\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.csprojAssemblyReference.cache
+D:\programming\git\ConwaysGame\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.csproj.CoreCompileInputs.cache
+D:\programming\git\ConwaysGame\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.AssemblyInfoInputs.cache
+D:\programming\git\ConwaysGame\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.AssemblyInfo.cs
+D:\programming\git\ConwaysGame\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.dll
+D:\programming\git\ConwaysGame\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.pdb

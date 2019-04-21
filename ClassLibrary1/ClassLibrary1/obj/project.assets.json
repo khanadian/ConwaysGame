@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iqbal\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\ClassLibrary1\\ClassLibrary1\\Conway.csproj",
+      "projectUniqueName": "D:\\programming\\git\\ConwaysGame\\ClassLibrary1\\ClassLibrary1\\Conway.csproj",
       "projectName": "Conway",
-      "projectPath": "C:\\Users\\iqbal\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\ClassLibrary1\\ClassLibrary1\\Conway.csproj",
+      "projectPath": "D:\\programming\\git\\ConwaysGame\\ClassLibrary1\\ClassLibrary1\\Conway.csproj",
       "packagesPath": "C:\\Users\\iqbal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iqbal\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\ClassLibrary1\\ClassLibrary1\\obj\\",
+      "outputPath": "D:\\programming\\git\\ConwaysGame\\ClassLibrary1\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
