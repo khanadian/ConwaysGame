@@ -16,10 +16,11 @@ namespace Conway
             init();
             Console.Write("init" + Environment.NewLine);
             printCells();
-            Console.Write("update" + Environment.NewLine);
+            
             bool flag = true;
             while(flag)
             {
+                Console.Write("update" + Environment.NewLine);
                 flag = update();
             }
 
@@ -28,9 +29,9 @@ namespace Conway
 
         private void init()
         {
-            cells[0, 0] = 1;
-            cells[0, 1] = 1;
             cells[1, 0] = 1;
+            cells[1, 1] = 1;
+            cells[1, 2] = 1;
         }
 
         private bool update()
