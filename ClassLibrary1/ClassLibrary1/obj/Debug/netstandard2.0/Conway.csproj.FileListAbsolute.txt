@@ -1,0 +1,9 @@
+C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Conway.deps.json
+C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Conway.dll
+C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\Conway.pdb
+C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.csprojAssemblyReference.cache
+C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.csproj.CoreCompileInputs.cache
+C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.AssemblyInfoInputs.cache
+C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.AssemblyInfo.cs
+C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.dll
+C:\Users\iqbal\OneDrive\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\Conway.pdb
